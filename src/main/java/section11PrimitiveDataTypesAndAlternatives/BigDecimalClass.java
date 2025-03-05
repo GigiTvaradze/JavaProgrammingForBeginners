@@ -31,4 +31,4 @@ package section11PrimitiveDataTypesAndAlternatives;
  *
  * BigDecimal num = new BigDecimal("3.14159265358979323846");
  */
-public class BigDecimal { }
+public class BigDecimalClass { }
