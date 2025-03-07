@@ -1,6 +1,6 @@
 package section12Conditionals.exerciseConditionals;
 
-public class IfElse {
+public class IfElseExercise {
     public static void main(String[] args) {
         puzzle1();
     }
